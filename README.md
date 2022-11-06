@@ -1,7 +1,7 @@
 # Kodluyoruz-proje1
 Insertion Sort Projesi
 
-#[22,27,16,2,18,6]-> Insertion Sort
+# [22,27,16,2,18,6]-> Insertion Sort
 
 ## 1Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -24,7 +24,7 @@ Insertion Sort Projesi
 ##Best case göre sıraladığımızda aradığımız sayının dizinin en başında olması gerekiyor. [2,6,16,18,22,27] şeklindedir.
 
 
-##Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 #[2,6,16,18,22,27]  18 sayısı ortada olduğu için average case kapsamına girer.
 
