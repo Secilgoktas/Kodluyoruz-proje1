@@ -21,7 +21,7 @@ Insertion Sort Projesi
 ##Average case göre sıralama  [2,6,16,18,22,27]
 ##Worst case göre sıralama  aradığımız sayının yani en küçük elemanın sonda olması gerekiyor.Diziyi buna göre
 ##sıraladığımızda [27,22,18,16,6,2]  şeklinde olur.
-## Best case göre sıraladığımızda aradığımız sayının dizinin en başında olması gerekiyor. [2,6,16,18,22,27] şeklindedir.
+##Best case göre sıraladığımızda aradığımız sayının dizinin en başında olması gerekiyor. [2,6,16,18,22,27] şeklindedir.
 
 
 ##Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
@@ -30,8 +30,7 @@ Insertion Sort Projesi
 
 ##[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-## Dizideki en küçük sayının en başa gelip onunla yer değiştirmesi gerekiyor böylelikle birinci eleman en küçük
-##olmuş oluyor. Daha sonra ikinci eleman en küçük olacak şekilde sıralama ilerliyor.
+##Dizideki en küçük sayının en başa gelip onunla yer değiştirmesi gerekiyor böylelikle birinci eleman en küçük olmuş oluyor. Daha sonra ikinci eleman en küçük olacak şekilde sıralama ilerliyor.
 
 ##[2,3,5,8,7,9,4,15,6]
 ##[2,3,4,8,7,9,5,15,6]
