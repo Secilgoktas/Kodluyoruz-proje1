@@ -15,8 +15,7 @@ Insertion Sort Projesi
 
 #O(n^2)
 
-## 3Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, 
-##Best case: Aradığımız sayının dizinin en başında olması.
+## 3Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
 ##Average case göre sıralama  [2,6,16,18,22,27]
 ##Worst case göre sıralama  aradığımız sayının yani en küçük elemanın sonda olması gerekiyor.Diziyi buna göre
